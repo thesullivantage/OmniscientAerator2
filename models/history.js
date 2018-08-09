@@ -9,6 +9,7 @@ module.exports = function (sequelize, DataTypes) {
         
     });
 
+
     History.sync();
 
   History.sync();
