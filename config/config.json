@@ -9,7 +9,7 @@
   "test": {
     "username": "root",
     "password": "root",
-    "database": "OA_testdb",
+    "database": "OA_developmentdb",
     "host": "localhost",
     "dialect": "mysql",
     "logging": false
