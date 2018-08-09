@@ -8,6 +8,7 @@ $("#loginsubmit").on("click", function() {
       .trim()
   };
   $.post("/login", loginObj).then(function(data, statusText, jqXHR) {
+    console.log("test")
     if (jqXHR.status === 200) {
       location.replace("/search");
     }
