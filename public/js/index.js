@@ -469,7 +469,7 @@ $(document).on("click", ".wineSelector", function() {
         // split string to array
         descriptionExtract = descriptionExtractString.split(", ")
       }
-      console.log(data[i]["description"])
+      console.log(data[i])
 
     }
     // for later query url manipulation

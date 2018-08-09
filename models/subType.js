@@ -55,79 +55,79 @@ module.exports = function (sequelize, DataTypes) {
         {
             subType: "Chardonnay",
             type: "Rich White",
-            description: "sensual",
+            description: "sensual, estate, villa",
             country: ""
         },
         {
             subType: "Viognier",
             type: "Rich White",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Champagne",
             type: "Sparkling",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Prosecco",
             type: "Sparkling",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Cava",
             type: "Sparkling",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Pinot Noir",
             type: "Light Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Tempranillo",
             type: "Medium Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Sangiovese",
             type: "Medium Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Zinfandel",
             type: "Medium Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Grenache",
             type: "Medium Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Merlot",
             type: "Medium Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Cabernet Sauvignon",
             type: "Bold Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
             subType: "Monastrell",
             type: "Bold Red",
-            description: "",
+            description: "mountain, romance, king",
             country: ""
         },
         {
@@ -139,31 +139,31 @@ module.exports = function (sequelize, DataTypes) {
         {
             subType: "Syrah",
             type: "Bold Red",
-            description: "",
+            description: "adventure, quest, hero",
             country: ""
         },
         {
             subType: "Late Harvest",
             type: "Dessert",
-            description: "",
+            description: "adventure, quest, hero",
             country: ""
         },
         {
             subType: "Ice Wine",
             type: "Dessert",
-            description: "",
+            description: "adventure, quest, hero",
             country: ""
         },
         {
             subType: "Sherry",
             type: "Dessert",
-            description: "",
+            description: "adventure, quest, hero",
             country: ""
         },
         {
             subType: "Port",
             type: "Dessert",
-            description: "",
+            description: "adventure, quest, hero",
             country: ""
         }
     ];
