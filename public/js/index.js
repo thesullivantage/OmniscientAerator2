@@ -76,10 +76,13 @@ $("select[name='foodDropdown']").change(function () {
 
   event.preventDefault();
 
-
+  //emptying logic
+  $(".subWines").empty();
+  $("#cardgrid").empty();
   $(".mainWines").empty();
   winePairArray = [];
 
+  //grabs text from selected option
   var mealText = {
     text: $(this).val().trim(),
   };
